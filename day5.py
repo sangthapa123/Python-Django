@@ -14,7 +14,8 @@
 
 marks = int(input("Enter your marks: "))
 
-"""if marks>=80:
+"""
+if marks>=80:
     print("A+")
 elif marks>=70:
     print("A")
@@ -27,4 +28,5 @@ elif marks>=40:
 elif marks>=32:
     print("D")
 else:
-    print("Fail")"""
+    print("Fail") 
+"""
